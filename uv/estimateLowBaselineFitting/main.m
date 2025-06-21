@@ -22,7 +22,7 @@ currExp = correctTemperature(currExp);
 % Not required before make the code public, the rss values are displayed 
 % for all merit function called.
 disp(initialParam)
-disp(minRSS);
+%disp(minRSS);
 
 % find the parameters for the current experiments
 slopesArr = [];
