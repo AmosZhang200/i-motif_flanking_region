@@ -1,6 +1,7 @@
-Files under bioinfo directory finds putative human iM forming sequences 
-and assign score for whether DNA duplex can form in the flanking regions. 
-It also generates Figure 5.
+Files under bioinfo directory finds putative iM forming sequences in human promoter regions
+and assign scores for the putative DNA duplex in the flanking regions. 
+The human promoter sequences can be downloaded according to Method section - Finding iMs and their flanking regions in human promoters.
+The program also generates Figure 5.
 
 Files under the uv directory is responsible for analyzing UVTH (UV thermal hysteresis) curves.
 	2states3lowFitting method analyze samples with 5, 7, 10, 13, and 15 complementary flanking nucleotides, 
